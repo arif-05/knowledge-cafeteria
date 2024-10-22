@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://ibb.co.com/F39stdT",
+      "title": "Exploring the Stars",
+      "author": "John Doe",
+      "author_img": "https://ibb.co.com/NFJfdwq",
+      "posted_date": "2024-09-01",
+      "reading_time": 7,
+      "hash_tags": ["#space", "#astronomy", "#exploration"]
+    },
+    {
+      "id": 2,
+      "cover": "https://ibb.co.com/F39stdT",
+      "title": "Mastering JavaScript",
+      "author": "Jane Smith",
+      "author_img": "https://ibb.co.com/NFJfdwq",
+      "posted_date": "2024-09-15",
+      "reading_time": 10,
+      "hash_tags": ["#javascript", "#coding", "#webdevelopment"]
+    },
+    {
+      "id": 3,
+      "cover": "https://ibb.co.com/F39stdT",
+      "title": "The Art of Minimalism",
+      "author": "Emily White",
+      "author_img": "https://ibb.co.com/NFJfdwq",
+      "posted_date": "2024-08-22",
+      "reading_time": 5,
+      "hash_tags": ["#minimalism", "#design", "#lifestyle"]
+    },
+    {
+      "id": 4,
+      "cover": "https://ibb.co.com/F39stdT",
+      "title": "A Journey Through Time",
+      "author": "Michael Brown",
+      "author_img": "https://ibb.co.com/NFJfdwq",
+      "posted_date": "2024-07-30",
+      "reading_time": 12,
+      "hash_tags": ["#history", "#timetravel", "#sciencefiction"]
+    },
+    {
+      "id": 5,
+      "cover": "https://ibb.co.com/F39stdT",
+      "title": "Healthy Eating Habits",
+      "author": "Sara Green",
+      "author_img": "https://ibb.co.com/NFJfdwq",
+      "posted_date": "2024-10-10",
+      "reading_time": 8,
+      "hash_tags": ["#health", "#nutrition", "#wellness"]
+    }
+  ]
+  
